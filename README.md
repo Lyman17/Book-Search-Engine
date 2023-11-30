@@ -30,11 +30,17 @@ To use the book search engine, simply use the search field to search for any boo
 
 Link to project repository: [https://github.com/Lyman17/Book-Search-Engine](https://github.com/Lyman17/Book-Search-Engine)
 
+Link to the deployed application: [https://book-search-engine-production-ddcc.up.railway.app/](https://book-search-engine-production-ddcc.up.railway.app/)
+
+Screenshot of the application:
+
+![Screenshot](Develop\badges\screenshot.png)
+
 ## Tests
 none needed
 
 ## Credits
-no other contributors
+Code finalized with help provided by Jeremy Rapich - Full Stack Web Developer
 
 ## Contributing
 How to contribute:
